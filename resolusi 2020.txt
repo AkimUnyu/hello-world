@@ -1,6 +1,5 @@
 - belajar python level beginner
-- belajar video scribe
-- belajar fiverr
 - belajar framework django
 - ganti laptop
 - beli hp
+- uts harus bagus
