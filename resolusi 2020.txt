@@ -1,4 +1,6 @@
-1. belajar python level beginner
-2. belajar video scribe
-3. belajar fiverr
-4. belajar framework django
+- belajar python level beginner
+- belajar video scribe
+- belajar fiverr
+- belajar framework django
+- ganti laptop
+- beli hp
